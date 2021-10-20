@@ -230,7 +230,7 @@ font-size: 20px;
   }
   .btn-success{
     position: absolute;
-    bottom: 20%;
+    top:75%;
   }
   .footer{
     height:0;
